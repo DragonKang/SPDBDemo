@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://192.168.1.100:6061/SPDBDemo.ipa</string>
+					<string>itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/DragonKang/SPDBDemo/refs/heads/main/SPDBDemo.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://192.168.1.100:6061/favicon.ico</string>
+					<string>itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/DragonKang/SPDBDemo/refs/heads/main/favicon.ico</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://192.168.1.100:6061/favicon.ico</string>
+					<string>itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/DragonKang/SPDBDemo/refs/heads/main/favicon.ico</string>
 				</dict>
 			</array>
 			<key>metadata</key>
